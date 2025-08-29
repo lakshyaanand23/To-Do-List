@@ -105,6 +105,8 @@ ul li span:hover{
     margin: 64px auto 27px;
     padding: 40px 30px 70px;
     border-radius: 10px;
+    font-size:16px;
+    scale:0.5;
 }
 
 }
